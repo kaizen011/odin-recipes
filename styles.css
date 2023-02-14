@@ -6,7 +6,7 @@
     font-size: medium;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: cornflowerblue;
-    background-color:lightgoldenrodyellow;
+    background-color:rgba(69, 94, 0, 0.829);
     height: fit-content;
     width: fit-content;
 }
@@ -15,9 +15,9 @@
     position: relative;
     text-align:center;
     font-family: monospace;
-    font-size: large;
-    color:rgb(29, 17, 0);
-    background-color: blanchedalmond;
+    font-size: 45px;
+    color:rgb(255, 255, 255);
+    background-color: rgba(161, 161, 161, 0.651);
 }
 
 #body{
@@ -35,6 +35,7 @@ nav {
     border-right-color: bisque;
     border-bottom-color: bisque;
     border: 3px solid bisque;
+    padding-right: 30px;
 }
 
 nav ul li{
