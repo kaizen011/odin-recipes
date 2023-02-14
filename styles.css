@@ -48,3 +48,6 @@ nav ul li a{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
+li {
+    border: 2px solid bisque;
+}
