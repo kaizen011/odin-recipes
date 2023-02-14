@@ -21,5 +21,30 @@
 }
 
 #body{
-    background-color: gainsboro;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url("http://hd.wallpaperswide.com/thumbs/good_food-t2.jpg");
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    background-color: rgba(252, 213, 200, 0.808);
+    width: fit-content;
+    border-left-color: bisque;
+    border-right-color: bisque;
+    border-bottom-color: bisque;
+    border: 3px solid bisque;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a{
+    color: chocolate;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
