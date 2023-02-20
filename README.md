@@ -1,4 +1,3 @@
 # odin-recipes
-This project is briefly a skill-test  for my proficiency in HTML & CSS.
-I've learned how to use git commands and used it to push my projects to GitHub.
-
+This project is briefly a skill-test for my proficiency in Front-End Development.
+I'll be uploading more advanced projects as I get better.
